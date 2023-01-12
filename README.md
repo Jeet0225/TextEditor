@@ -1,3 +1,22 @@
+# Editer Console Page
+
+## Convert to UpperCase
+
+![Screenshot_20230112_223302](https://user-images.githubusercontent.com/95633934/212133515-9557835e-fbe6-4980-ae0a-83f066c4f3da.png)
+
+## Convert to LowerCase
+
+![Screenshot_20230112_223320](https://user-images.githubusercontent.com/95633934/212133656-15dc90d2-bbc4-4b17-a41a-f1ee2885ace1.png)
+
+## ClearText
+
+![Screenshot_20230112_223347](https://user-images.githubusercontent.com/95633934/212133715-97ae8224-ac73-4487-b60c-b7a46af7e13a.png)
+
+## LightMode
+
+![Screenshot_20230112_224208](https://user-images.githubusercontent.com/95633934/212134208-7e3c027c-e6b9-4f91-adc4-37286427c09d.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
